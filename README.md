@@ -4,9 +4,12 @@ A clean, responsive personal portfolio built with HTML, CSS and JavaScript.
 
 ## Live Deployment
 - Add your live deployment link here (GitHub Pages / Netlify / Vercel)
+- Deployment link ="https://github.com/asrithaps145-boop/Module-3-Project/tree/main"
 
 ## GitHub Repository
 - Add your repository link here
+- Repository link ="https://github.com/asrithaps145-boop/Module-3-project.git"
+
 
 ## Technologies Used
 - HTML5, CSS3 (Flexbox & Grid), JavaScript (ES6)
