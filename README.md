@@ -32,4 +32,8 @@ git clone https://github.com/your-username/portfolio.git
 - [ ] All external links work correctly
 - [ ] Contact form validated on front-end
 - [ ] Clean, commented code and folder structure
+<<<<<<< HEAD
 - [ ] Live site deployed and accessible
+=======
+- [ ] Live site deployed and accessible
+>>>>>>> 353499d4f2bb83a0996736d452839b573e9fef48
